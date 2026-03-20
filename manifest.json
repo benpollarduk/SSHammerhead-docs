@@ -24,50 +24,120 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/screenshots/map.png",
+      "source_relative_path": "images/screenshots/console/map.png",
       "output": {
         "resource": {
-          "relative_path": "images/screenshots/map.png"
+          "relative_path": "images/screenshots/console/map.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/screenshots/room.png",
+      "source_relative_path": "images/screenshots/console/room.png",
       "output": {
         "resource": {
-          "relative_path": "images/screenshots/room.png"
+          "relative_path": "images/screenshots/console/room.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/screenshots/spiderbot.png",
+      "source_relative_path": "images/screenshots/console/spiderbot.png",
       "output": {
         "resource": {
-          "relative_path": "images/screenshots/spiderbot.png"
+          "relative_path": "images/screenshots/console/spiderbot.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/screenshots/starfield.png",
+      "source_relative_path": "images/screenshots/console/starfield.png",
       "output": {
         "resource": {
-          "relative_path": "images/screenshots/starfield.png"
+          "relative_path": "images/screenshots/console/starfield.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/screenshots/title.png",
+      "source_relative_path": "images/screenshots/console/title.png",
       "output": {
         "resource": {
-          "relative_path": "images/screenshots/title.png"
+          "relative_path": "images/screenshots/console/title.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screenshots/wpf/1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screenshots/wpf/1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screenshots/wpf/2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screenshots/wpf/2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screenshots/wpf/3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screenshots/wpf/3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screenshots/wpf/4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screenshots/wpf/4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screenshots/wpf/5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screenshots/wpf/5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screenshots/wpf/6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screenshots/wpf/6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screenshots/wpf/7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screenshots/wpf/7.png"
         }
       },
       "version": ""
